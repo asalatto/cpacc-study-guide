@@ -1,3 +1,5 @@
+[&larr; back](../index.md)
+
 # A. Theoretical Models of Disability
 
 * It's estimated that over 16% of people have disabilities - the world's largest (and growing) minority.

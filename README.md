@@ -6,8 +6,78 @@ The outline of this study guide is based off of the [CPACC Content Outline](http
 
 This serves as a compilation of notes and research as I study the topics above and a reference for myself and anyone else studying to get certified.
 
-[See this repo's wiki for study guide content!](https://github.com/asalatto/cpacc-study-guide/wiki)
-
 ## This is a work in progress! 
 
 I'll be updating this guide as I learn and collect resources. At some point I'll share this and open it up to contributions but for now I'm only building out the skeleton.
+
+# Content Index
+
+## [I. Disabilities, Challenges, and Assistive Technologies](1-disabilities-challenges-and-assistive-technologies/index.md) (40%)
+* [A. Characterize and Differentiate Between Theoretical Models of Disability, including the strengths and weaknesses of their underlying assumptions](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md)
+    1. Medical Model
+    2. Social Model
+    3. Biopsychosocial Model
+    4. Economic Model
+    5. Functional Solutions Model
+    6. Social Identity or Cultural Affiliation Model
+    7. Charity Model
+* B. Demonstrate Understanding of the Categories and Characteristics of Disabilities and Associated Barriers (ICT and Physical World)
+    1. Visual Disabilities
+    2. Auditory Disabilities
+    3. Deaf-blindness
+    4. Speech Disabilities
+    5. Mobility, Flexibility, and Body Structure Disabilities
+    6. Cognitive Disabilities
+    7. Seizure Disabilities
+    8. Psychological/Psychiatric Disabilities
+    9. Multiple/Compound Disabilities
+* C. Identify Appropriate Assistive Technologies and Adaptive Strategies at the Level of the Individual for Permanent, Temporary and Episodic Disabilities (ICT and Physical World)
+    1. Visual Disabilities Assistive Technologies and Adaptive Strategies
+    2. Auditory Disabilities Assistive Technologies and Adaptive Strategies
+    3. Deaf-Blindness
+    4. Speech Disabilities Assistive Technologies and Adaptive Strategies
+    5. Mobility, Flexibility and Body Structure Assistive Technologies and Adaptive Strategies
+    6. Seizure Disabilities Assistive Technologies and Adaptive Strategies
+    7. Psychological/Psychiatric Disabilities Assistive Technologies and Adaptive Strategies
+    8. Multiple/Compound Disabilities Assistive Technologies and Adaptive Strategies
+* D. Demonstrate an Understanding of the Data Trends and Implications of Disability Demographics and Statistics
+* E. Apply Disability Etiquette into Practice
+
+## II. Accessibility and Universal Design (40%)
+* A. Distinguish Between Individualized Accommodations (Solutions Designed Only for Exceptional Individuals, to Make Up for Shortcomings in the Main Design) and Universal Design (Items or Environments Designed to be Used by a Wide Range of Individuals with Diverse Abilities)
+* B. Identify Benefits of Accessibility
+* C. Identify and Apply Accessibility Principles (from WCAG 2.1) of Web Accessibility
+* D. Identify and Apply Accessibility Principles for the Built Environment
+* E. Identify and Apply Principles of Universal Design
+* F. Identify and Apply Principles of Universal Design for Learning (UDL)
+    1. Define the Concept of Universal Design for Learning
+    2. Define the Concept of Usability and User Experience (UX)
+
+## III. Standards, Laws, and Management Strategies (20%)
+* A. Identify and Characterize International Declarations and Conventions on Disability Rights
+    1. The Universal Declaration of Human Rights
+    2. Convention on the Rights of Persons with Disabilities (CRPD)
+    3. The Marrakesh Treaty
+* B. Identify and Characterize Regional Instruments on Human and Disability Rights
+    1. Charter of Fundamental Rights of the European Union
+    2. The African Charter on Human and People’s Rights
+    3. The Inter-American Convention on the Elimination of All Forms of Discrimination Against Persons with Disabilities
+* C. Identify and Characterize National and Provincial Instruments on Disability Rights
+    1. The Equality Act 2010
+    2. The Americans with Disabilities Act of 1990
+    3. Ontarians with Disabilities Act of 2001
+* D. Identify and Characterize Domain-Specific and Government Procurement Laws and Regulations
+    1. Examples of Domain-Specific Laws
+    2. Examples of Procurement Laws
+* E. Applying Accessibility Standards and Regulations to ICT
+* F. Integrating ICT Accessibility Across the Organization
+    1. Resources
+    2. W3C Web Accessibility Initiative Recommendations
+    3. European Agency for Special Needs & Inclusive Education Guidelines
+    4. Business Disability Forum's Accessibility Maturity Model
+    5. The Importance of Management Champions
+    6. Evaluating for Accessibility
+    7. Recruiting and Hiring
+    8. Communications Management Strategies
+    9. Legal & Public Relations Implications
+    10. Procurement Processes

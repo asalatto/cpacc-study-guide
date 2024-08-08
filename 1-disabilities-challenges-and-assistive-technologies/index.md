@@ -1,3 +1,5 @@
+[&larr; back](../README.md)
+
 # Disabilities, Challenges, and Assistive Technologies
 
 ## [A. Characterize and Differentiate Between Theoretical Models of Disability, including the strengths and weaknesses of their underlying assumptions](a-theoretical-models-of-disability/index.md)
