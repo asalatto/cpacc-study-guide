@@ -25,6 +25,8 @@ Examples:
 * A website designed to be screen reader friendly
 
 ## 3. Human Rights Model
+*This model appears in the [2024 CPACC Preparation Course](https://iaap.edunext.io/courses/course-v1:IAAP+2024+2024/about).*
+
 People with disabilities have fundamental human rights, should be free from discrimination, and included in all matters that affect them. Responsibility is placed on governments.
 
 * This model was developed _with_ people with disabilities, and can guide government policy
@@ -42,25 +44,7 @@ Examples:
 * The option to turn camera off in a Zoom meeting
 * Easy navigation through a hospital building for those who might be stressed or confused
 
-## 5. Functional Solutions Model
-Focuses on practical solutions and overcoming functional limitations for individuals. **Most accessibility professionals work within this model.**
-
-* Results-oriented for people with disabilities.
-* However, this limits its use for addressing larger issues and can miss opportunities to address environmental or social barriers.
-
-Examples: 
-* Tools like screen readers, split keyboards, wheelchairs.
-
-## 6. Social Identity/Cultural Affiliation Model
-Recognizes that disability may be a fundamental part of a person's identity.
-
-* Disability is accepted and can be a point of pride, which can be affirming.
-* However, people who don't fit into the group's expectations can be alienated and groups can also alienate its members from society.
-
-Examples:
-* Members of the Deaf community considers itself part of a culture with its own language and customs
-
-## 7. Economic Model
+## 5. Economic Model
 Defines disability by a person's ability or inability to work, and how much their impairment affects their productivity. 
 
 * Recognizes that disability affects a person's ability to work and they may need financial support or accomodations.
@@ -69,6 +53,24 @@ Defines disability by a person's ability or inability to work, and how much thei
 Examples:
 * A family qualifies for welfare since the parent stays home to care for a disabled child.
 * A person with cognitive disabilities gets paid less than minimum wage.
+
+## 6. Functional Solutions Model
+Focuses on practical solutions and overcoming functional limitations for individuals. **Most accessibility professionals work within this model.**
+
+* Results-oriented for people with disabilities.
+* However, this limits its use for addressing larger issues and can miss opportunities to address environmental or social barriers.
+
+Examples: 
+* Tools like screen readers, split keyboards, wheelchairs.
+
+## 7. Social Identity/Cultural Affiliation Model
+Recognizes that disability may be a fundamental part of a person's identity.
+
+* Disability is accepted and can be a point of pride, which can be affirming.
+* However, people who don't fit into the group's expectations can be alienated and groups can also alienate its members from society.
+
+Examples:
+* Members of the Deaf community considers itself part of a culture with its own language and customs
 
 ## 8. Charity Model
 Regards people with disabilities as unfortunate and in need of help.

@@ -14,13 +14,15 @@ I'll be updating this guide as I learn and collect resources. At some point I'll
 
 ## [I. Disabilities, Challenges, and Assistive Technologies](1-disabilities-challenges-and-assistive-technologies/index.md) (40%)
 * [A. Characterize and Differentiate Between Theoretical Models of Disability, including the strengths and weaknesses of their underlying assumptions](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md)
-    1. Medical Model
-    2. Social Model
-    3. Biopsychosocial Model
-    4. Economic Model
-    5. Functional Solutions Model
-    6. Social Identity or Cultural Affiliation Model
-    7. Charity Model
+    1. [Medical Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#1-medical-model)
+    2. [Social Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#2-social-model)
+    3. [Human Rights Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#3-human-rights-model)
+    4. [Biopsychosocial Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#4-biopsychosocial-model)
+    5. [Economic Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#5-economic-model)
+    6. [Functional Solutions Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#6-functional-solutions-model)
+    7. [Social Identity or Cultural Affiliation Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#7-social-identitycultural-affiliation-model)
+    8. [Charity Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#8-charity-model)
+
 * B. Demonstrate Understanding of the Categories and Characteristics of Disabilities and Associated Barriers (ICT and Physical World)
     1. Visual Disabilities
     2. Auditory Disabilities
