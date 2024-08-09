@@ -23,8 +23,8 @@ I'll be updating this guide as I learn and collect resources. At some point I'll
     7. [Social Identity or Cultural Affiliation Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#7-social-identitycultural-affiliation-model)
     8. [Charity Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#8-charity-model)
 
-* B. Demonstrate Understanding of the Categories and Characteristics of Disabilities and Associated Barriers (ICT and Physical World)
-    1. Visual Disabilities
+* [B. Demonstrate Understanding of the Categories and Characteristics of Disabilities and Associated Barriers (ICT and Physical World)](1-disabilities-challenges-and-assistive-technologies/b-categories-and-characteristics-of-disabilities/index.md)
+    1. [Visual Disabilities](1-disabilities-challenges-and-assistive-technologies/b-categories-and-characteristics-of-disabilities/visual-disabilities.md)
     2. Auditory Disabilities
     3. Deaf-blindness
     4. Speech Disabilities

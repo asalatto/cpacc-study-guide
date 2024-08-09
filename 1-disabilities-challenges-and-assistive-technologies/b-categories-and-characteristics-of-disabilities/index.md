@@ -2,7 +2,9 @@
 
 # Categories and Characteristics of Disabilities
 
-1. Visual Disabilities
+Assistive technologies are products, devices, systems, or items used by people with disabilities to perform tasks which they could not do otherwise. When they are used with computers, assistive technologies are also called adaptive technologies or adaptive software.
+
+1. [Visual Disabilities](visual-disabilities.md)
 2. Auditory Disabilities
 3. Deaf-blindness
 4. Speech Disabilities
