@@ -32,4 +32,4 @@ Mood disorders affect a person's emotional state. The most common mood disorders
 
 ---
 
-See section on [Psychological/Psychiatric Disabilities Assistive Technologies and Adaptive Strategies](1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/psychological-psychiatric-disabilities.md).
+See section on [Psychological/Psychiatric Disabilities Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/psychological-psychiatric-disabilities.md).
