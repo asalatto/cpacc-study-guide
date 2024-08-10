@@ -14,14 +14,14 @@
 
 ## [B. Demonstrate Understanding of the Categories and Characteristics of Disabilities and Associated Barriers (ICT and Physical World)](b-categories-and-characteristics-of-disabilities/index.md)
 1. [Visual Disabilities](b-categories-and-characteristics-of-disabilities/visual-disabilities.md)
-2. Auditory Disabilities
-3. Deaf-blindness
-4. Speech Disabilities
-5. Mobility, Flexibility, and Body Structure Disabilities
-6. Cognitive Disabilities
-7. Seizure Disabilities
-8. Psychological/Psychiatric Disabilities
-9. Multiple/Compound Disabilities
+2. [Auditory Disabilities](b-categories-and-characteristics-of-disabilities/auditory-disabilities.md)
+3. [Deaf-blindness](b-categories-and-characteristics-of-disabilities/deaf-blindness.md)
+4. [Speech Disabilities](b-categories-and-characteristics-of-disabilities/speech-disabilities.md)
+5. [Mobility, Flexibility, and Body Structure Disabilities](b-categories-and-characteristics-of-disabilities/mobility-flexibility-and-body-structure-disabilities.md)
+6. [Cognitive Disabilities](b-categories-and-characteristics-of-disabilities/cognitive-disabilities.md)
+7. [Seizure Disabilities](b-categories-and-characteristics-of-disabilities/seizure-disabilities.md)
+8. [Psychological/Psychiatric Disabilities](b-categories-and-characteristics-of-disabilities/psychological-psychiatric-disabilities.md)
+9. [Multiple/Compound Disabilities](b-categories-and-characteristics-of-disabilities/multiple-compound-disabilities.md)
 
 ## C. Identify Appropriate Assistive Technologies and Adaptive Strategies at the Level of the Individual for Permanent, Temporary and Episodic Disabilities (ICT and Physical World)
 1. Visual Disabilities Assistive Technologies and Adaptive Strategies
