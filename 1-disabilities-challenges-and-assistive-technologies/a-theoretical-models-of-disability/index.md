@@ -2,6 +2,8 @@
 
 # A. Theoretical Models of Disability
 
+**Goal:** Characterize and Differentiate Between Theoretical Models of Disability, including the strengths and weaknesses of their underlying assumptions.
+
 * It's estimated that over 16% of people have disabilities - the world's largest (and growing) minority.
 
 ## 1. Medical Model
