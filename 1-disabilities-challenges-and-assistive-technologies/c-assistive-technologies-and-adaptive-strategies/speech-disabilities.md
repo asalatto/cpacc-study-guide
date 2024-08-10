@@ -32,4 +32,4 @@ Most AAC devices fall into these categories:
 
 ---
 
-See section on 4. [Speech Disabilities](/1-disabilities-challenges-and-assistive-technologies/b-disabilities/speech-disabilities.md).
+See section on [Speech Disabilities](/1-disabilities-challenges-and-assistive-technologies/b-disabilities/speech-disabilities.md).

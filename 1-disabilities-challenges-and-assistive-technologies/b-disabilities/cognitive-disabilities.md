@@ -75,49 +75,6 @@ People with ASD may have:
 ### Demographics
 Around 1 in 100 people have autism and its prevalence is increasing.
 
-# Solutions
+---
 
-In general, solutions for cognitive impairments involve:
-* Allowing adequate time to prepare for and complete tasks
-* Checking for understanding and giving feedback in communications
-* Minimizing distracting ambient noises
-* Using plain language
-* Providing structure and clear instructions
-
-## Environmental Solutions
-
-### Physical
-* Provide dimmable lighting
-* Reduce ambient noise
-* Make it easy to find things
-* Provide large and easily understood signs
-* Design routes that are simple and intuitive
-* GPS should be simple with easy to follow tactile, graphic, audible or architectural cues
-
-### Digital
-* Simplify content and carefully organize interfaces
-* Provide information through various means (text, audio, images)
-* Allow adequate time to complete tasks (filling out a form, login time)
-* Highlight most important information
-* Customizable settings (for layout, content, time management)
-
-## Assistive Technologies
-
-### Physical/Environmental
-* To-do lists
-* Reminders
-* Organizers
-* Highlighters
-* Ear plugs
-* Sunglasses
-* Stim toys
-* Photos and pictorial representations
-
-### Digital
-* Screen readers and text-to-speech software
-* Smartpens 
-* Text highlighting software
-* Bookmarking software
-* Spelling and grammar checks
-* Productivity and time management apps
-* Voice recognition software such as Siri (Apple), Dragon, or Alexa (Amazon)
+See section on [Cognitive Disabilities Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/cognitive-disabilities.md).

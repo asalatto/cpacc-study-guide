@@ -42,4 +42,4 @@ Some people with low vision experience low contrast and need high contrast text/
 
 ---
 
-See section on[Visual Disabilities Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/visual-disabilities.md).
+See section on [Visual Disabilities Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/visual-disabilities.md).

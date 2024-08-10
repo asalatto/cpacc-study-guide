@@ -29,9 +29,10 @@
 3. [Deaf-Blindness Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/deaf-blindness.md)
 4. [Speech Disabilities Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/speech-disabilities.md)
 5. [Mobility, Flexibility and Body Structure Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/mobility-flexibility-and-body-structure-disabilities.md)
-6. [Neurological (Seizure) Disabilities Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/neurological-disabilities.md)
-7. [Psychological/Psychiatric Disabilities Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/psychological-psychiatric-disabilities.md)
-8. [Multiple/Compound Disabilities Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/multiple-compound-disabilities.md)
+6. [Cognitive Disabilities Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/cognitive-disabilities.md)
+7. [Neurological (Seizure) Disabilities Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/neurological-disabilities.md)
+8. [Psychological/Psychiatric Disabilities Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/psychological-psychiatric-disabilities.md)
+9. [Multiple/Compound Disabilities Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/multiple-compound-disabilities.md)
 
 ## D. Demonstrate an Understanding of the Data Trends and Implications of Disability Demographics and Statistics
 
