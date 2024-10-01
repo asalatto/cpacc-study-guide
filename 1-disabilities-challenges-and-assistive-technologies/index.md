@@ -2,6 +2,7 @@
 
 # Disabilities, Challenges, and Assistive Technologies
 
+
 ## [A. Theoretical Models of Disability](a-theoretical-models-of-disability/index.md)
 1. [Medical Model](a-theoretical-models-of-disability/index.md#1-medical-model)
 2. [Social Model](a-theoretical-models-of-disability/index.md#2-social-model)
@@ -34,6 +35,6 @@
 8. [Psychological/Psychiatric Disabilities Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/psychological-psychiatric-disabilities.md)
 9. [Multiple/Compound Disabilities Assistive Technologies and Adaptive Strategies](c-assistive-technologies-and-adaptive-strategies/multiple-compound-disabilities.md)
 
-## D. Demonstrate an Understanding of the Data Trends and Implications of Disability Demographics and Statistics
+## [D. Demonstrate an Understanding of the Data Trends and Implications of Disability Demographics and Statistics](d-demographics-and-statistics.md)
 
-## E. Apply Disability Etiquette into Practice
+## [E. Apply Disability Etiquette into Practice](e-disability-etiquette.md)

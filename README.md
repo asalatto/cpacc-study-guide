@@ -45,17 +45,17 @@ I'll be updating this guide as I learn and collect resources. At some point I'll
     8. [Psychological/Psychiatric Disabilities Assistive Technologies and Adaptive Strategies](1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/psychological-psychiatric-disabilities.md)
     9. [Multiple/Compound Disabilities Assistive Technologies and Adaptive Strategies](1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/multiple-compound-disabilities.md)
 
-* D. Demonstrate an Understanding of the Data Trends and Implications of Disability Demographics and Statistics
+* [D. Demonstrate an Understanding of the Data Trends and Implications of Disability Demographics and Statistics](1-disabilities-challenges-and-assistive-technologies/d-demographics-and-statistics.md)
 
-* E. Apply Disability Etiquette into Practice
+* [E. Apply Disability Etiquette into Practice](1-disabilities-challenges-and-assistive-technologies/e-disability-etiquette.md)
 
 ## II. Accessibility and Universal Design (40%)
-* A. Distinguish Between Individualized Accommodations (Solutions Designed Only for Exceptional Individuals, to Make Up for Shortcomings in the Main Design) and Universal Design (Items or Environments Designed to be Used by a Wide Range of Individuals with Diverse Abilities)
-* B. Identify Benefits of Accessibility
-* C. Identify and Apply Accessibility Principles (from WCAG 2.1) of Web Accessibility
-* D. Identify and Apply Accessibility Principles for the Built Environment
-* E. Identify and Apply Principles of Universal Design
-* F. Identify and Apply Principles of Universal Design for Learning (UDL)
+* [A. Distinguish Between Individualized Accommodations (Solutions Designed Only for Exceptional Individuals, to Make Up for Shortcomings in the Main Design) and Universal Design (Items or Environments Designed to be Used by a Wide Range of Individuals with Diverse Abilities)](2-accessibility-and-universal-design/a-user-centered-and-universal-design.md)
+* [B. Identify Benefits of Accessibility](2-accessibility-and-universal-design/b-benefits-of-accessibility.md)
+* [C. Identify and Apply Accessibility Principles (from WCAG 2.1) of Web Accessibility](2-accessibility-and-universal-design/c-web-accessibility.md)
+* [D. Identify and Apply Accessibility Principles for the Built Environment](2-accessibility-and-universal-design/d-build-environment-accessibility.md)
+* [E. Identify and Apply Principles of Universal Design](2-accessibility-and-universal-design/e-universal-design.md)
+* [F. Identify and Apply Principles of Universal Design for Learning (UDL)](2-accessibility-and-universal-design/f-universal-design-for-learning.md)
     1. Define the Concept of Universal Design for Learning
     2. Define the Concept of Usability and User Experience (UX)
 
