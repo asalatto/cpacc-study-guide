@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Cognitive Disabilities
 
@@ -78,3 +78,7 @@ Around 1 in 100 people have autism and its prevalence is increasing.
 ---
 
 See section on [Cognitive Disabilities Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/cognitive-disabilities.md).
+
+---
+
+[&rarr; Next: Neurological (Seizure) Disabilities](neurological-disabilities.md)

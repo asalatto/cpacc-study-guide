@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Auditory Disabilities
 
@@ -24,3 +24,7 @@ According to the World Health organization, around 466 million people (~6% of th
 --- 
 
 See section on [Auditory Disabilities Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/auditory-disabilities.md).
+
+--- 
+
+[&rarr; Next: Deaf-Blindness](deaf-blindness.md)

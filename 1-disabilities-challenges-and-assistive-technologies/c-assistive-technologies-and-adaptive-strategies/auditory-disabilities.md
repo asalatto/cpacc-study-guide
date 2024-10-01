@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Auditory Disabilities Assistive Technologies and Adaptive Strategies
 
@@ -47,3 +47,7 @@ Audio descriptions narrate a video's visual elements in the pauses between  dial
 ---
 
 See section on [Auditory Disabilities](/1-disabilities-challenges-and-assistive-technologies/b-disabilities/auditory-disabilities.md).
+
+--- 
+
+[&rarr; Next: Deaf-Blindness Assistive Technologies and Adaptive Strategies](deaf-blindness.md)

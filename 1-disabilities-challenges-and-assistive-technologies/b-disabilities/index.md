@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Categories and Characteristics of Disabilities
 

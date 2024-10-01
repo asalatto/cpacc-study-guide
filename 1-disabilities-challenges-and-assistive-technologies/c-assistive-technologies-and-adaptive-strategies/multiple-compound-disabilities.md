@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Multiple/Compound Disabilities Assistive Technologies and Adaptive Strategies
 
@@ -29,3 +29,7 @@
 ---
 
 See section on [Multiple/Compound Disabilities](/1-disabilities-challenges-and-assistive-technologies/b-disabilities/multiple-compound-disabilities.md).
+
+--- 
+
+[&rarr; Next: Disability Demographics and Statistics](../d-demographics-and-statistics.md)

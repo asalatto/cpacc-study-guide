@@ -1,4 +1,4 @@
-[&larr; back](index.md)
+[&larr; Back to Index](index.md)
 
 # Universal Design for Learning
 
@@ -53,3 +53,7 @@ Examples:
 * Multiple examples of novel solutions to a problem
 * Posting learning goals, objectives, and schedules
 * Providing options for students to show they understand a topic, for example by writing an article or by giving a presentation
+
+--- 
+
+[&rarr; Next: Standards, Laws, and Management Strategies](../3-standards-laws-and-management-strategies/index.md)

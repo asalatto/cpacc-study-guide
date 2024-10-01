@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Mobility, Flexibility, and Body Structure Disabilities
 
@@ -51,3 +51,7 @@ There are a variety of factors and disorders that can affect a person's stature,
 --- 
 
 See section on [Mobility, Flexibility and Body Structure Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/mobility-flexibility-and-body-structure-disabilities.md).
+
+--- 
+
+[&rarr; Next: Cognitive Disabilities](cognitive-disabilities.md)

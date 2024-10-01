@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Psychological Disabilities
 
@@ -33,3 +33,7 @@ Mood disorders affect a person's emotional state. The most common mood disorders
 ---
 
 See section on [Psychological/Psychiatric Disabilities Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/psychological-psychiatric-disabilities.md).
+
+---
+
+[&rarr; Next: Multiple/Compound Disabilities](multiple-compound-disabilities.md)

@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Multiple or Compound Disabilities
 
@@ -15,3 +15,7 @@ The person experiences barriers that apply to any and all of their disabilities.
 ---
 
 See section on [Multiple/Compound Disabilities Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/multiple-compound-disabilities.md).
+
+---
+
+[&rarr; Next: Assistive Technologies and Adaptive Strategies](../c-assistive-technologies-and-adaptive-strategies/index.md)

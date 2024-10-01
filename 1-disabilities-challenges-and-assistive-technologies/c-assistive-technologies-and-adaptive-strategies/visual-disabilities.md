@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Visual Disabilities Assistive Technologies and Adaptive Strategies
 
@@ -53,3 +53,7 @@ Screen magnifiers allow users to select a portion of the screen and magnify it. 
 ---
 
 See section on [Visual Disabilities](/1-disabilities-challenges-and-assistive-technologies/b-disabilities/visual-disabilities.md).
+
+--- 
+
+[&rarr; Next: Auditory Disabilities Assistive Technologies and Adaptive Strategies](auditory-disabilities.md)

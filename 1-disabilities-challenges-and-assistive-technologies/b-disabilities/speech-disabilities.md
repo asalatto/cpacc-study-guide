@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Speech Disabilities
 
@@ -51,3 +51,7 @@ Mutism can be caused by:
 ---
 
 See section on [Speech Disabilities Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/speech-disabilities.md).
+
+--- 
+
+[&rarr; Next: Mobility, Flexibility, and Body Structure Disabilities](mobility-flexibility-and-body-structure-disabilities.md)

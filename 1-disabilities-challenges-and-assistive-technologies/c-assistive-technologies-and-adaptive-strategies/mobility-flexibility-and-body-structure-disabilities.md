@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Mobility, Flexibility and Body Structure Assistive Technologies and Adaptive Strategies
 
@@ -48,3 +48,7 @@
 --- 
 
 See section on [Mobility, Flexibility, and Body Structure Disabilities](/1-disabilities-challenges-and-assistive-technologies/b-disabilities/mobility-flexibility-and-body-structure-disabilities.md).
+
+--- 
+
+[&rarr; Next: Cognitive Disabilities Assistive Technologies and Adaptive Strategies](cognitive-disabilities.md)

@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Psychological/Psychiatric Disabilities Assistive Technologies and Adaptive Strategies
 
@@ -28,3 +28,7 @@
 ---
 
 See section on [Psychological/Psychiatric Disabilities](/1-disabilities-challenges-and-assistive-technologies/b-disabilities/psychological-psychiatric-disabilities.md).
+
+--- 
+
+[&rarr; Next: Multiple/Compound Disabilities Assistive Technologies and Adaptive Strategies](multiple-compound-disabilities.md)

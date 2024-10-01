@@ -1,4 +1,4 @@
-[&larr; back](index.md)
+[&larr; Back to Index](index.md)
 
 # Benefits of Accessibility
 
@@ -33,3 +33,7 @@ The Global Public Inclusive Infrastructure (GPII) also identifies the following 
     * People with temporary/situational disabilities such as a broken arm or lost glasses.
     * Challenging situations such as bright sunlight or noisy environments.
 * **Accessibility minimizes legal risk.** With legal risks increasing, smart businesses, particularly those with global activities, are creating accessibility policies and programs to mitigate risk to protect both their assets and their reputations.
+
+--- 
+
+[&rarr; Next: Web Accessibility (WCAG 2.1)](c-web-accessibility.md)

@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Neurological (Seizure) Disabilities Assistive Technologies and Adaptive Strategies
 
@@ -25,3 +25,7 @@
 ---
 
 See section on [Neurological (Seizure) Disabilities](/1-disabilities-challenges-and-assistive-technologies/b-disabilities/neurological-disabilities.md).
+
+--- 
+
+[&rarr; Next: Psychological/Psychiatric Disabilities Assistive Technologies and Adaptive Strategies](psychological-psychiatric-disabilities.md)

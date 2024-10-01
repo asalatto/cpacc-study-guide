@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Deaf-Blindness
 Most people who are deaf-blind are neither completely deaf nor completely blind, and retain some ability to hear and see. 
@@ -18,3 +18,7 @@ The incidence of deaf-blindness is low; according to the World Federation of the
 --- 
 
 See section on [Deaf-Blindness Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/deaf-blindness.md).
+
+--- 
+
+[&rarr; Next: Speech Disabilities](speech-disabilities.md)

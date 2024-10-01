@@ -1,4 +1,4 @@
-[&larr; back](index.md)
+[&larr; Back to Index](index.md)
 
 # Universal Design
 
@@ -120,3 +120,7 @@ Examples:
 * ATMs at a reachable height for people using wheelchairs
 * Large targets areas for buttons on mobile apps
 * A website that visually highlights the most important information
+
+--- 
+
+[&rarr; Next: Principles of Universal Design for Learning (UDL)](f-universal-design-for-learning.md)

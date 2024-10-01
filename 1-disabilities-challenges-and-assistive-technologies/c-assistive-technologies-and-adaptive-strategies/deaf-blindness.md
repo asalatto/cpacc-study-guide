@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Deaf-Blindness Assistive Technologies and Adaptive Strategies
 
@@ -27,3 +27,7 @@ Haptics use vibrations or other tactile sensations to support communication betw
 ---
 
 See section on [Deaf-blindness](/1-disabilities-challenges-and-assistive-technologies/b-disabilities/deaf-blindness.md).
+
+--- 
+
+[&rarr; Next: Speech Disabilities Assistive Technologies and Adaptive Strategies](speech-disabilities.md)

@@ -1,4 +1,4 @@
-[&larr; back](index.md)
+[&larr; Back to Index](index.md)
 
 # Disability Demographics and Statistics
 
@@ -60,3 +60,7 @@ People are more likely to acquire a disability as they age. Age-related changes 
 In countries with life expectancies over 70 years of age, people spend an average of 8 years living with disabilities.
 
 The longer a person lives with disabilities, the higher the cost of their healthcare.
+
+--- 
+
+[&rarr; Next: Disability Etiquette](e-disability-etiquette.md)

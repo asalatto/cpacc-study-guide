@@ -1,4 +1,4 @@
-[&larr; back](../README.md)
+[&larr; Back to Index](../README.md)
 
 # Assistive Technologies and Adaptive Strategies
 

@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](index.md)
 
 # A. Theoretical Models of Disability
 
@@ -83,3 +83,7 @@ Regards people with disabilities as unfortunate and in need of help.
 Examples:
 * Telethons
 * 5k Charity Runs
+
+--- 
+
+[&rarr; Next: Categories and Characteristics of Disabilities](b-disabilities/index.md)

@@ -1,9 +1,9 @@
-[&larr; back](../README.md)
+[&larr; Back to Index](../README.md)
 
 # Disabilities, Challenges, and Assistive Technologies
 
 
-## [A. Theoretical Models of Disability](a-theoretical-models-of-disability/index.md)
+## [A. Theoretical Models of Disability](a-theoretical-models-of-disability.md)
 1. [Medical Model](a-theoretical-models-of-disability/index.md#1-medical-model)
 2. [Social Model](a-theoretical-models-of-disability/index.md#2-social-model)
 3. [Human Rights Model](a-theoretical-models-of-disability/index.md#3-human-rights-model)

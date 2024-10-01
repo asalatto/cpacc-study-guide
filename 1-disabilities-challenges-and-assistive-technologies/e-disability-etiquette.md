@@ -1,4 +1,4 @@
-[&larr; back](index.md)
+[&larr; Back to Index](index.md)
 
 # Apply Disability Etiquette into Practice
 
@@ -78,3 +78,7 @@ Example terms to avoid include:
 
 * DO speak calmly, and offer to repeat information if the person is upset. DON'T assume the person can't handle stress.
 * DO acknowledge the person’s feelings and express care and concern. DON'T blame someone for their feelings.
+
+--- 
+
+[&rarr; Next: Accessibility and Universal Design](../2-accessibility-and-universal-design/index.md)

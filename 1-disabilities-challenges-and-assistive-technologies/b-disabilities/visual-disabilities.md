@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Visual Disabilities
 
@@ -43,3 +43,7 @@ Some people with low vision experience low contrast and need high contrast text/
 ---
 
 See section on [Visual Disabilities Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/visual-disabilities.md).
+
+--- 
+
+[&rarr; Next: Auditory Disabilities](auditory-disabilities.md)

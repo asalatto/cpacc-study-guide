@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Cognitive Disabilities Assistive Technologies and Adaptive Strategies
 
@@ -50,3 +50,7 @@ In general, adaptive strategies for cognitive impairments involve:
 ---
 
 See section on [Cognitive Disabilities](/1-disabilities-challenges-and-assistive-technologies/b-disabilities/cognitive-disabilities.md).
+
+--- 
+
+[&rarr; Next: Neurological (Seizure) Disabilities Assistive Technologies and Adaptive Strategies](neurological-disabilities.md)

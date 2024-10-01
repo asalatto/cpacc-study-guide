@@ -13,7 +13,7 @@ I'll be updating this guide as I learn and collect resources. At some point I'll
 # Content Index
 
 ## [I. Disabilities, Challenges, and Assistive Technologies](1-disabilities-challenges-and-assistive-technologies/index.md) (40%)
-* [A. Theoretical Models of Disability](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md)
+* [A. Theoretical Models of Disability](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability.md)
     1. [Medical Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#1-medical-model)
     2. [Social Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#2-social-model)
     3. [Human Rights Model](1-disabilities-challenges-and-assistive-technologies/a-theoretical-models-of-disability/index.md#3-human-rights-model)
@@ -49,7 +49,7 @@ I'll be updating this guide as I learn and collect resources. At some point I'll
 
 * [E. Apply Disability Etiquette into Practice](1-disabilities-challenges-and-assistive-technologies/e-disability-etiquette.md)
 
-## II. Accessibility and Universal Design (40%)
+## [II. Accessibility and Universal Design (40%)](2-accessibility-and-universal-design/index.md)
 * [A. Distinguish Between Individualized Accommodations (Solutions Designed Only for Exceptional Individuals, to Make Up for Shortcomings in the Main Design) and Universal Design (Items or Environments Designed to be Used by a Wide Range of Individuals with Diverse Abilities)](2-accessibility-and-universal-design/a-user-centered-and-universal-design.md)
 * [B. Identify Benefits of Accessibility](2-accessibility-and-universal-design/b-benefits-of-accessibility.md)
 * [C. Identify and Apply Accessibility Principles (from WCAG 2.1) of Web Accessibility](2-accessibility-and-universal-design/c-web-accessibility.md)
@@ -59,7 +59,7 @@ I'll be updating this guide as I learn and collect resources. At some point I'll
     1. Define the Concept of Universal Design for Learning
     2. Define the Concept of Usability and User Experience (UX)
 
-## III. Standards, Laws, and Management Strategies (20%)
+## [III. Standards, Laws, and Management Strategies (20%)](3-standards-laws-and-management-strategies/index.md)
 * A. Identify and Characterize International Declarations and Conventions on Disability Rights
     1. The Universal Declaration of Human Rights
     2. Convention on the Rights of Persons with Disabilities (CRPD)

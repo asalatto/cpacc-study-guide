@@ -1,4 +1,4 @@
-[&larr; back](index.md)
+[&larr; Back to Index](index.md)
 
 # User-Centered and Universal Design
 
@@ -55,3 +55,7 @@ User experience is concerned with the **entire journey** a person has with a pro
 * Using it for the first time.
 * Using it subsequent times.
 * Their feelings about it.
+
+--- 
+
+[&rarr; Next: Benefits of Accessibility](b-benefits-of-accessibility.md)

@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Speech Disabilities Assistive Technologies and Adaptive Strategies
 
@@ -33,3 +33,7 @@ Most AAC devices fall into these categories:
 ---
 
 See section on [Speech Disabilities](/1-disabilities-challenges-and-assistive-technologies/b-disabilities/speech-disabilities.md).
+
+--- 
+
+[&rarr; Next: Mobility, Flexibility and Body Structure Assistive Technologies and Adaptive Strategies](mobility-flexibility-and-body-structure-disabilities.md)

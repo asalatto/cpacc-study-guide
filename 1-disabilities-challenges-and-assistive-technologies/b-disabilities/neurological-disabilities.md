@@ -1,4 +1,4 @@
-[&larr; back](../index.md)
+[&larr; Back to Index](../index.md)
 
 # Neurological (Seizure) Disabilities
 
@@ -57,3 +57,7 @@ About 5% of people with epilepsy have photosensitive epilepsy.
 ---
 
 See section on [Neurological (Seizure) Disabilities Assistive Technologies and Adaptive Strategies](/1-disabilities-challenges-and-assistive-technologies/c-assistive-technologies-and-adaptive-strategies/neurological-disabilities.md).
+
+---
+
+[&rarr; Next: Psychological/Psychiatric Disabilities](psychological-psychiatric-disabilities.md)
