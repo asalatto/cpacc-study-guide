@@ -75,15 +75,16 @@ I'll be updating this guide as I learn and collect resources. At some point I'll
 * [D. Identify and Characterize Domain-Specific and Government Procurement Laws and Regulations](3-standards-laws-and-management-strategies/d-domain-specific-and-government-procurement-laws/index.md)
     1. [Examples of Domain-Specific Laws](3-standards-laws-and-management-strategies/d-domain-specific-and-government-procurement-laws/1-domain-specific-laws.md)
     2. [Examples of Procurement Laws](3-standards-laws-and-management-strategies/d-domain-specific-and-government-procurement-laws/2-procurement-laws.md)
-* E. Applying Accessibility Standards and Regulations to ICT
-* F. Integrating ICT Accessibility Across the Organization
-    1. Resources
-    2. W3C Web Accessibility Initiative Recommendations
-    3. European Agency for Special Needs & Inclusive Education Guidelines
-    4. Business Disability Forum's Accessibility Maturity Model
-    5. The Importance of Management Champions
-    6. Evaluating for Accessibility
-    7. Recruiting and Hiring
-    8. Communications Management Strategies
-    9. Legal & Public Relations Implications
-    10. Procurement Processes
+* [E. Applying Accessibility Standards and Regulations to ICT](3-standards-laws-and-management-strategies/e-applying-accessibility-standards-and-regulations-to-ict.md)
+* [F. Integrating ICT Accessibility Across the Organization](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/index.md)
+    1. [Resources](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/1-resources.md)
+    2. [W3C Web Accessibility Initiative Recommendations](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/2-w3c-web-accessibility-initiative-recommendations.md)
+    3. [European Agency for Special Needs & Inclusive Education Guidelines](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/3-european-agency-for-special-needs-and-inclusive-education-guidelines.md)
+    4. [Business Disability Forum's Accessibility Maturity Model](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/4-business-disability-forum-accessibility-maturity-model.md)
+        * [The Capability Maturity Model](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/4a-capability-maturity-model.md)
+    5. [The Importance of Management Champions](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/5-importance-of-management-champions.md)
+    6. [Evaluating for Accessibility](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/6-evaluating-for-accessibility.md)
+    7. [Recruiting and Hiring](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/7-recruiting-and-hiring.md)
+    8. [Communications Management Strategies](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/8-communications-management-strategies.md)
+    9. [Legal & Public Relations Implications](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/9-legal-and-public-relations-implications.md)
+    10. [Procurement Processes](3-standards-laws-and-management-strategies/f-integrating-ict-accessibility/10-procurement-processes.md)
