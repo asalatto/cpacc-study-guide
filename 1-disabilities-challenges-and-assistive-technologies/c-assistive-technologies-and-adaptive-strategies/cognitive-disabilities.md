@@ -17,35 +17,52 @@ In general, adaptive strategies for cognitive impairments involve:
 * Make it easy to find things
 * Provide large and easily understood signs
 * Design routes that are simple and intuitive
-* GPS should be simple with easy to follow tactile, graphic, audible or architectural cues
+* Wayfinding should be simple with easy to follow tactile, graphic, audible or architectural cues
 
 ### Digital
-* Simplify content and carefully organize interfaces
+* Simplify content and carefully organize distraction-free interfaces
 * Provide information through various means (text, audio, images)
-* Allow adequate time to complete tasks (filling out a form, login time)
+* Allow adequate time to complete tasks (filling out a form, login sessions)
 * Highlight most important information
 * Customizable settings (for layout, content, time management)
 
 ## Assistive Technologies
 
-### Physical
+### Attention and Focusing
 * To-do lists
-* Reminders
-* Organizers
-* Highlighters
-* Ear plugs
-* Sunglasses
-* Stim toys
-* Photos and pictorial representations
+* Time management apps
+* Productivity apps
+* Computer-based prompting applications to assist with staying on task
+* Ear plugs or noise-cancelling headphones
 
-### Digital
-* Screen readers and text-to-speech software
-* Smartpens 
-* Text highlighting software
-* Bookmarking software
-* Spelling and grammar checks
-* Productivity and time management apps
-* Voice recognition software such as Siri (Apple), Dragon, or Alexa (Amazon)
+### Memory
+* Reminders
+* Audio prompting devices to assist with memory
+* Auto-complete for web forms
+* Password managers
+* Audio note-takers and reminders
+* Apps/technologies providing cues for actions
+
+### Perceptual Functions
+* Direction-finding applications
+
+### Emotional Functions
+* Apps for mindfulness and to reduce stress
+* Apps for anxiety management and coping strategies
+* Stim toys
+
+### Reading and Writing
+* Audiobooks and reading software
+* Speech synthesizers/screen readers
+* Word prediction/lookup
+* Visual/audio alternatives to text in signs, messages, instructions
+* Speech-recognition software
+
+### Communication
+* Augmentative and alternative communication (AAC) devices
+* Synchronized speech and highlighting
+* Computerized voice output communication aids
+* Computer-assisted instruction for word recognition, math, spelling, and social skills to be used in education
 
 ---
 

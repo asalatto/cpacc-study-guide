@@ -21,6 +21,8 @@
 
 ## Assistive Technologies
 * Augmentative and Alternative Communication (AAC) devices
+* Programmable keyboards
+* Communication aids
 * Hearing aids
 * Sign language
 * Memory aids

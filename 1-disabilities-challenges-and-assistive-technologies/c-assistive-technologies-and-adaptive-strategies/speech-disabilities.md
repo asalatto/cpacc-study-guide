@@ -16,9 +16,11 @@
 * Adequate time to complete tasks
 
 ## Assistive Technologies
-* Augmentative and Alternative Communication (AAC) devices
+* Producing speech: text-to-speech programs or Augmentative and Alternative Communication (AAC) devices
+* Processing language: screen readers with adjustable speech rate, voice, and pitch
+* Keyboard with speech generating functionalities 
 * Spelling/grammar checkers
-* Communication boards
+* Electronic communication boards with symbols or images
 * Word prediction software/features
 * Text-based alternatives to speech such as writing and drawing
 

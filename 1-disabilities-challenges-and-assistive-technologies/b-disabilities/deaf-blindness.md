@@ -1,14 +1,15 @@
 [&larr; Back to Index](../index.md)
 
 # Deaf-Blindness
-Most people who are deaf-blind are neither completely deaf nor completely blind, and retain some ability to hear and see. 
 
-Sensory inputs are limited to touch, smell, and taste, with touch being the only method for complex communication.
+Deaf-Blindness is a rare condition that uses touch as the primary means of communication. Sensory inputs are limited to touch, smell, and taste, with touch being the only method for complex communication.
+
+Most people who are deaf-blind are neither completely deaf nor completely blind, and retain some ability to hear and see. 
 
 Deaf-blind people need to use braille (for text) and sign language (by feeling the hands of the person signing) to access conversations.
 
 ## Demographics
-The incidence of deaf-blindness is low; according to the World Federation of the Deafblind, between 0.2% and 2% of the world's population is deaf-blind.
+The incidence of deaf-blindness is low; according to the World Federation of the Deaf-blind, between 0.2% and 2% of the world's population is deaf-blind.
 
 # Common Barriers
 * Lack of braille on printed materials, or lack of output to a braille keyboard for digital/web technologies

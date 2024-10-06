@@ -6,6 +6,10 @@ People with complex disabilities often have simultaneous disabilities that, if s
 
 These commonly include impaired speech and communication skills, impaired mobility, and needing help with daily tasks.
 
+## Demographics
+Global statistics are not available. UK and Australian sources indicate that 10 to 15% of people with disabilities have complex needs.
+
+
 # Common Barriers
 The person experiences barriers that apply to any and all of their disabilities. But compounding disabilities have these additional barriers:
 * Barriers to education

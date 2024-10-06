@@ -4,6 +4,8 @@
 
 Physical and mobility impairments cause limitations in the independent, purposeful physical movement of a person's body. These can be temporary or permanent and can be congenital, acquired with age, or caused by disease.
 
+Persons who may have issues with fine motor control include older adults, people with Autism or ADHD, and persons with ataxia (the loss of fine motor skills resulting from neurological damage or disorder e.g. stroke, cerebral palsy, or Multiple Sclerosis).
+
 Mobility impairments include:
 * Upper or lower limb loss/disability
 * Challenges with manual dexterity
@@ -13,13 +15,15 @@ Mobility impairments include:
 The US Centers for Disease Control estimates that 11% of US adults have mobility disabilities.
 
 ## Manual Dexterity/Fine Motor Control
-Fine motor skills are the movements of the hand/wrist needed to manipulate objects, as opposed to gross motor skills which allow for bigger movements. They are the result of coordinated efforts by the brain and muscles.
+Fine motor skills are the intricate movements of the hand/wrist needed to manipulate objects, as opposed to gross motor skills which allow for bigger movements. They are the result of coordinated efforts by the brain and muscles.
 
 People with fine motor disabilities may have trouble with:
 * Writing and drawing
 * Using a keyboard
 * Picking up and manipulating small objects
 * Using both hands at the same time
+* Buttons and zippers
+* Tying shoelaces
 
 ## Ambulation
 Ambulation is the ability to walk. Disabilities in this category can include the total inability to walk or difficulty with ambulation.
@@ -31,7 +35,9 @@ Impairments may be caused by:
 * Back injuries
 
 ## Muscle Fatigue
-Muscle fatigue is a non-specific symptom characterized by progressive weakness and loss of muscle mass. It can occur in any part of the body.
+Muscle fatigue is a non-specific symptom characterized by progressive weakness and loss of muscle mass. It can occur in any part of the body. 
+
+Symptoms include muscle weakness, soreness, localized pain, shortness of breath, muscle twitching, trembling, weak grip, and muscle cramps. It's often described as exhaustion, overwhelming tiredness, and lack of energy. 
 
 ## Body Size or Shape
 There are a variety of factors and disorders that can affect a person's stature, proportions, or shape. These include:
@@ -45,7 +51,7 @@ There are a variety of factors and disorders that can affect a person's stature,
 * Steps, thresholds, and other obstacles to enter a space
 * Counters, shelves, appliances, controls (etc) that are out of reach or require touch instead of voice commands
 * Tables without knee or toe clearance
-* Products and environments that require standing, fine motor skills, or strength
+* Products and environments that require standing (high counters), fine motor skills (round doorknob), or strength (heavy door)
 * Body shaming and social discrimination
 
 --- 

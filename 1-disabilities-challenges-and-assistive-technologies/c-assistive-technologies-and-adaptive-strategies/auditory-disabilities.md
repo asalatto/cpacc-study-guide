@@ -7,8 +7,10 @@
 ### Physical/Environmental
 * Use microphones in large spaces and ensure the space has good acoustics and lighting
 * Provide sign language interpretation
+* CART or STTR accurate & usable captions for videos, live online meetings, live presentations
 * Reduce ambient noise
-* Provide visual alerts like flashing lights for doorbells, alarms, and other alerts.
+* Provide visual alerts like flashing lights for doorbells, alarms, and other alerts
+* Clear signage for meeting rooms with microphones connected to audio induction loops
 
 ### Digital
 * Captions/subtitles

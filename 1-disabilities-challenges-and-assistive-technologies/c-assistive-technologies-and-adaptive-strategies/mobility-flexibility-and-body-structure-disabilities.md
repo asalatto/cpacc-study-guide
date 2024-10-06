@@ -34,6 +34,7 @@
 * Grab bars, railing, and handle bars
 * Taller, shorter, or wider chairs
 * Large buttons, button hooks, and velcro closures
+* Touch or voice activated lighting
 
 ### Digital
 * Switch devices to replace keyboard or mouse (buttons, sip-and-puff devices)

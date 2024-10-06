@@ -5,8 +5,10 @@
 ## Adaptive Strategies
 
 ### Physical/Environmental
-* Raised tiles to indicate edges, pathways, stairs, etc
-* Braille (although most blind people don't know braille)
+* Raised tiles on the ground to indicate edges, pathways, stairs, etc
+* Clear obstructions/obstacles
+* Braille on signs and controls (although most blind people don't know braille)
+* Tactile controls on flat devices such as microwaves and dishwashers
 * Large print or magnifiers
 * High contrast colors
 
@@ -29,7 +31,7 @@
 ### Visual & Auditory
 * Screen readers
 * Screen magnifiers
-* Audio descriptions
+* Audio description as an additional audio track
 * Speech input/voice output
 * Apps that can identify and describe objects, people, colors, or money values
 * Color contrast adjusting software

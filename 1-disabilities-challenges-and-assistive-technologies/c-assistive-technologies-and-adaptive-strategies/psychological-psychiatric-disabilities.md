@@ -2,6 +2,9 @@
 
 # Psychological/Psychiatric Disabilities Assistive Technologies and Adaptive Strategies
 
+Since psychological disabilities affect mental functions and cognition, many solutions for people with
+cognitive disabilities can also benefit people with psychological disabilities.
+
 ## Adaptive Strategies
 
 ### Environmental

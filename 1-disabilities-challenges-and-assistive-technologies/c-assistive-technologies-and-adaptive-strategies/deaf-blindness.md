@@ -16,6 +16,7 @@
 * Audio description
 
 ## Assistive Technologies
+* Screen reader converting text to braille on a refreshable braille device
 * Deaf-blind communicator
 * Environment detecting wearables
 * White cane (for feeling the environment)

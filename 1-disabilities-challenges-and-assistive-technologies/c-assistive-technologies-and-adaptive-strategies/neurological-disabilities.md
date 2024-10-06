@@ -14,12 +14,12 @@
 * Don't require computer games or VR for participation
 
 ## Assistive Technology
+* Smart watches that can detect seizures and send alerts or provide GPS location
 * Anti-glare glasses
 * Ear plugs
 * Supportive and protective gear in the event of falling
 * Flicker-free monitors
 * E ink monitors
-* Seizure detection devices
 * Service animals
 
 ---

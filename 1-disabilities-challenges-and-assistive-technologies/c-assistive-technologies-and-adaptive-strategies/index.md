@@ -4,7 +4,7 @@
 
 **Goal:** Identify Appropriate Assistive Technologies and Adaptive Strategies at the Level of the Individual for Permanent, Temporary and Episodic Disabilities (ICT and Physical World).
 
-**Assistive technologies** are products, devices, systems, or items used by people with disabilities to perform tasks which they could not do otherwise. When they are used with computers, assistive technologies are also called adaptive technologies or adaptive software.
+**Assistive technologies** (or adaptive technologies) are products, devices, systems, or items used by people with disabilities to perform tasks which they could not do otherwise. When they are used with computers, assistive technologies are also called adaptive technologies or adaptive software.
 
 ## Accomodations
 **Accommodations** are modifications to goods, services, or environments so that a person with a disability can access and perform the same tasks as a person without a disability. These are protected by legislation (which varies by country). 
