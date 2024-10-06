@@ -60,21 +60,21 @@ I'll be updating this guide as I learn and collect resources. At some point I'll
     2. Define the Concept of Usability and User Experience (UX)
 
 ## [III. Standards, Laws, and Management Strategies (20%)](3-standards-laws-and-management-strategies/index.md)
-* A. Identify and Characterize International Declarations and Conventions on Disability Rights
-    1. The Universal Declaration of Human Rights
-    2. Convention on the Rights of Persons with Disabilities (CRPD)
-    3. The Marrakesh Treaty
-* B. Identify and Characterize Regional Instruments on Human and Disability Rights
-    1. Charter of Fundamental Rights of the European Union
-    2. The African Charter on Human and People’s Rights
-    3. The Inter-American Convention on the Elimination of All Forms of Discrimination Against Persons with Disabilities
-* C. Identify and Characterize National and Provincial Instruments on Disability Rights
-    1. The Equality Act 2010
-    2. The Americans with Disabilities Act of 1990
-    3. Ontarians with Disabilities Act of 2001
-* D. Identify and Characterize Domain-Specific and Government Procurement Laws and Regulations
-    1. Examples of Domain-Specific Laws
-    2. Examples of Procurement Laws
+* [A. Identify and Characterize International Declarations and Conventions on Disability Rights](3-standards-laws-and-management-strategies/a-international-declarations-and-conventions/index.md)
+    1. [The Universal Declaration of Human Rights](3-standards-laws-and-management-strategies/a-international-declarations-and-conventions/1-universal-declaration-of-human-rights.md)
+    2. [Convention on the Rights of Persons with Disabilities (CRPD)](3-standards-laws-and-management-strategies/b-regional-instruments-on-human-and-disability-rights/2-african-charter-on-human-and-peoples-rights.md)
+    3. [The Marrakesh Treaty](3-standards-laws-and-management-strategies/a-international-declarations-and-conventions/3-marrakesh-treaty.md)
+* [B. Identify and Characterize Regional Instruments on Human and Disability Rights](3-standards-laws-and-management-strategies/b-regional-instruments-on-human-and-disability-rights/index.md)
+    1. [Charter of Fundamental Rights of the European Union](3-standards-laws-and-management-strategies/b-regional-instruments-on-human-and-disability-rights/1-fundamental-rights-of-the-european-union.md)
+    2. [The African Charter on Human and People's Rights](3-standards-laws-and-management-strategies/b-regional-instruments-on-human-and-disability-rights/2-african-charter-on-human-and-peoples-rights.md)
+    3. [The Inter-American Convention on the Elimination of All Forms of Discrimination Against Persons with Disabilities](3-standards-laws-and-management-strategies/b-regional-instruments-on-human-and-disability-rights/3-inter-american-convention.md)
+* [C. Identify and Characterize National and Provincial Instruments on Disability Rights](3-standards-laws-and-management-strategies/c-national-and-provincial-instruments-on-disability-rights/index.md)
+    1. [The UK Equality Act of 2010](3-standards-laws-and-management-strategies/c-national-and-provincial-instruments-on-disability-rights/1-uk-equality-act-2010.md)
+    2. [The Americans with Disabilities Act of 1990](3-standards-laws-and-management-strategies/c-national-and-provincial-instruments-on-disability-rights/2-americans-with-disabilities-act-1990.md)
+    3. [Ontarians with Disabilities Act of 2001](3-standards-laws-and-management-strategies/c-national-and-provincial-instruments-on-disability-rights/3-ontarians-with-disabilities-act-2001.md)
+* [D. Identify and Characterize Domain-Specific and Government Procurement Laws and Regulations](3-standards-laws-and-management-strategies/d-domain-specific-and-government-procurement-laws/index.md)
+    1. [Examples of Domain-Specific Laws](3-standards-laws-and-management-strategies/d-domain-specific-and-government-procurement-laws/1-domain-specific-laws.md)
+    2. [Examples of Procurement Laws](3-standards-laws-and-management-strategies/d-domain-specific-and-government-procurement-laws/2-procurement-laws.md)
 * E. Applying Accessibility Standards and Regulations to ICT
 * F. Integrating ICT Accessibility Across the Organization
     1. Resources
