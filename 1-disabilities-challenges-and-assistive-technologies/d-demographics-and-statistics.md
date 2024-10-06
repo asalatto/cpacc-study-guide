@@ -8,6 +8,8 @@
 
 Statistical data on disability is collected and categorized in different ways, so it is important to understand each study within its context.
 
+### Limitations
+
 Limitations in the collection of data about people with disabilities include:
 * Details about different disabilities are usually not included in census surveys.
 * Disability terminology varies between countries.
@@ -17,15 +19,16 @@ Limitations in the collection of data about people with disabilities include:
 
 World Health Organization estimations:
 * **1.3 billion (16%, 1 in 6) people** experience significant disability. The disabled community is the world’s largest minority group.
+* Some people with disabilities **die 20 years earlier** than those without disabilities.
 * People with disabilities have **twice the risk** of developing conditions like depression, asthma, diabetes, stroke, obesity or poor oral health.
-* People with disabilities face **health inequities**.
+* People with disabilities face many **health inequities** from stigma, discrimination, poverty, exclusion from education and employment, and barriers from the health system itself.
 * They experience barriers to healthcare, education, employment, transportation (**15x more difficult** to find accessible and affordable methods), and information worldwide.
 
 According to the United Nations Fact Sheet on Persons with Disabilities:
 * 80% of people with disabilities live in developing countries.
 * In most OECD countries, the incidence of disability is greater for women than for men.
 * 90% of children with disabilities in developing countries do not attend school.
-* The global literacy rate for adults with disabilities is as low as 3% and 1% for women with disabilities.
+* The global literacy rate for adults with disabilities is as low as 3%, and 1% for women with disabilities.
 * Students with disabilities in higher education remain under-represented, although their numbers are rising.
 * Unemployment among persons with disabilities is as high as 80% in some countries.
 
@@ -47,7 +50,7 @@ Disability accentuates poverty because the systemic institutional, environmental
 
 Data shows that: 
 * The percentage of persons with disabilities living under the national or international poverty line is higher, and in some countries double, than that of persons without disabilities.
-* More women with disabilities than men with disabilities are in such a situation.
+* More women with disabilities than men with disabilities live under the poverty line.
 * Those with disabilities and their households are more likely to not always have food to eat. In developed countries, the average percentage of persons with disabilities who are unable to afford a meal with protein every second day is almost double that of persons without disabilities.
 * Access to financial services such as banks is restricted by their lack of accessibility.
 

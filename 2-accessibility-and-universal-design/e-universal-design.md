@@ -12,9 +12,11 @@ Universal design is also known as:
 * inclusive design
 * design for all
 * human-centered design
-* lifespan design
+* life-span design
 
 ## Principles of Universal Design
+
+The 7 Principles of Universal Design were developed in 1997 by a working group of architects, product designers, engineers and environmental design researchers, led by the late Ronald Mace in the North Carolina State University (NCSU).
 
 ### 1. Equitable Use
 
@@ -54,9 +56,9 @@ The use of the design is easy to understand, regardless of the user’s experien
 * Be consistent with user expectations and intuition.
 * Accommodate a wide range of literacy and language skills.
 * Arrange information consistent with its importance.
+* Provide effective prompting and feedback during and after task completion.
 
 Examples:
-
 * A cup with a handle
 * IKEA picture-based instructions
 * Consistent navigation elements on a website
@@ -67,8 +69,9 @@ Examples:
 The design communicates necessary information effectively to the user, regardless of ambient conditions or the user’s sensory abilities.
 
 * Use different modes (pictorial, verbal, tactile) for redundant presentation of essential information.
-* Provide adequate contrast between essential information.
-* Differentiate elements in ways that can be described.
+* Provide adequate contrast between essential information and its surroundings.
+* Maximize legibility of essential information.
+* Differentiate elements in ways that can be described (ie, make it easy to give instructions or directions).
 * Provide compatibility with a variety of techniques or devices used by people with sensory limitations.
 
 Examples:
@@ -81,7 +84,7 @@ Examples:
 
 The design minimizes hazards and the adverse consequences of accidental or unintended actions.
 
-* Arrange elements to minimize hazards and errors.
+* Arrange elements to minimize hazards and errors: most used elements, most accessible; hazardous elements eliminated, isolated, or shielded.
 * Provide warnings of hazards and errors.
 * Provide fail-safe features.
 * Discourage unconscious action in tasks that require vigilance.
@@ -99,6 +102,7 @@ The design can be used efficiently and comfortably and with a minimum of fatigue
 * Allow the user to maintain a neutral body position.
 * Use reasonable operating forces.
 * Minimize repetitive actions.
+* Minimize sustained physical effort.
 
 Examples:
 * Lever or loop handles for doors or faucets

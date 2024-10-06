@@ -4,7 +4,7 @@
 
 **Goal**: Understand the basic concepts of the World Wide Web Consortium’s Web Content Accessibility Guidelines. Know the Guidelines’ four principles: perceivable, operable, understandable, and robust.
 
-**Web accessibility** is the ability of a website to be easily navigated, used, and understood by people with disabilities. It combines web development and file creation standards with universal design practices.
+**Web accessibility** is the ability of a website to be easily navigated, used, and understood by people with disabilities. It combines web development and file creation standards with universal design practices. It allows people with disabilities to perceive, navigate, understand, interact, and contribute to the web.
 
 Web accessibility also benefits:
 * People without disabilities, such as those in a noisy or bright environment, with a temporary/situation disability, with a slow internet connection or bandwidth, and using a variety of different devices/interfaces.
@@ -53,7 +53,7 @@ Users must be able to operate the interface and it cannot require an interact th
 
 Users must be able to understand the information as well as the operation of the user interface.
 
-* Make content readable and understandable.
+* Make text readable and understandable.
 * Make content appear and operate in predictable ways.
 * Help users avoid and correct mistakes.
 
