@@ -72,6 +72,7 @@ I'll be updating this guide as I learn and collect resources. At some point I'll
     1. [The UK Equality Act of 2010](3-standards-laws-and-management-strategies/c-national-and-provincial-instruments-on-disability-rights/1-uk-equality-act-2010.md)
     2. [The Americans with Disabilities Act of 1990](3-standards-laws-and-management-strategies/c-national-and-provincial-instruments-on-disability-rights/2-americans-with-disabilities-act-1990.md)
     3. [Ontarians with Disabilities Act of 2001](3-standards-laws-and-management-strategies/c-national-and-provincial-instruments-on-disability-rights/3-ontarians-with-disabilities-act-2001.md)
+    4. [Disability Laws in the EU](3-standards-laws-and-management-strategies/c-national-and-provincial-instruments-on-disability-rights/4-disability-laws-in-the-eu.md)
 * [D. Identify and Characterize Domain-Specific and Government Procurement Laws and Regulations](3-standards-laws-and-management-strategies/d-domain-specific-and-government-procurement-laws/index.md)
     1. [Examples of Domain-Specific Laws](3-standards-laws-and-management-strategies/d-domain-specific-and-government-procurement-laws/1-domain-specific-laws.md)
     2. [Examples of Procurement Laws](3-standards-laws-and-management-strategies/d-domain-specific-and-government-procurement-laws/2-procurement-laws.md)

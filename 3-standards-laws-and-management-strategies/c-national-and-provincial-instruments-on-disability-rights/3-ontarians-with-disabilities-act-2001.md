@@ -13,3 +13,7 @@ These regulations exist under the AODA through the Integrated Accessibility Stan
 * Employment Standard
 * Transportation Standard
 * Design of Public Spaces Standard
+
+--- 
+
+[&rarr; Next: Disability Laws in the EU](4-disability-laws-in-the-eu.md)

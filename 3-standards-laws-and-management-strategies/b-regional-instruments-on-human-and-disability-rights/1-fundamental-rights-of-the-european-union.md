@@ -2,6 +2,10 @@
 
 # The Fundamental Rights of the European Union
 
+The **European Convention on Human Rights (ECHR)** was signed in 1950, and all Council of Europe member states (nearly all countries in geographical Europe) are party to the convention. It grants fundamental civil and political rights to all, though doesn't explicitly mentioned disabled people.
+
+The **European Social Charter (ESC)** was adopted in 1961 and guarantees fundamental social and economic rights as a counterpart to the ECHR. It grants the right of people with disabilities to independence, social integration and participation in community life.
+
 ## Charter of Fundamental Rights of the European Union
 
 The Charter of Fundamental Rights of the European Union was declared in 2000, and came into force in 2009. It sets out the full range of civil, political, economic, and social rights of everyone living in the EU. Its aim was to bring consistency and clarity to the rights established at different times and in different ways in the individual EU Member States. 

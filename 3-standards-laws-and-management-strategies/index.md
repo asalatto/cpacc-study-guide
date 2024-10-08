@@ -14,6 +14,7 @@
     1. [The UK Equality Act of 2010](c-national-and-provincial-instruments-on-disability-rights/1-uk-equality-act-2010.md)
     2. [The Americans with Disabilities Act of 1990](c-national-and-provincial-instruments-on-disability-rights/2-americans-with-disabilities-act-1990.md)
     3. [Ontarians with Disabilities Act of 2001](c-national-and-provincial-instruments-on-disability-rights/3-ontarians-with-disabilities-act-2001.md)
+    4. [Disability Laws in the EU](c-national-and-provincial-instruments-on-disability-rights/4-disability-laws-in-the-eu.md)
 * [D. Identify and Characterize Domain-Specific and Government Procurement Laws and Regulations](d-domain-specific-and-government-procurement-laws/index.md)
     1. [Examples of Domain-Specific Laws](d-domain-specific-and-government-procurement-laws/1-domain-specific-laws.md)
     2. [Examples of Procurement Laws](d-domain-specific-and-government-procurement-laws/2-procurement-laws.md)

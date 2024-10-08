@@ -7,11 +7,12 @@ Procurement laws help ensure that governments procure accessible products and se
 ## European Union Procurement Laws
 
 * The **EU Public Procurement Directives** declare that technical specifications must take into account accessibility, and can exclude economic operators which have violated social obligations including accessibility.
+
 * **EN 301 549** lays out accessibility requirements for ICT products and services in government agencies across the European Union.
 
 ## US Procurement Laws
 
-* **Section 508** requires accessibility for federal employees and for ICT developed, procured, maintained, or used by US federal agencies. It uses WCAG criteria.
+* **Section 508** of the Rehabilitation Act requires accessibility for federal employees and for ICT developed, procured, maintained, or used by US federal agencies. It uses WCAG criteria.
 
 --- 
 
